@@ -6,7 +6,7 @@ let dados = [
       titulo: "Xiaomi Poco X6 Pro", // Define o título do celular
       descricao: "Destaca-se como uma excelente opção para gamers, com um processador potente e tela fluida. Seu design moderno e bateria de longa duração também são pontos fortes.", // Descrição detalhada do celular
       link: "https://www.tudocelular.com/Poco/fichas-tecnicas/n9034/Poco-X6-Pro.html", // Link para mais informações sobre o celular
-      tags: ["poco x6 pro xiaomi xiao xia"] // Array de tags relacionadas ao celular, como palavras-chave para busca
+      tags: "poco x6 pro xiaomi xiao xia" // Array de tags relacionadas ao celular, como palavras-chave para busca
     },
   
     // Segundo objeto, representando o Samsung Galaxy M54
@@ -14,7 +14,7 @@ let dados = [
       titulo: "Samsung Galaxy M54",
       descricao: "Oferece um ótimo equilíbrio entre desempenho, câmera e bateria. Ideal para quem busca um celular versátil para o dia a dia.",
       link: "https://www.tudocelular.com/Samsung/fichas-tecnicas/n8562/Samsung-Galaxy-M54.html",
-      tags: ["galaxy m54 samsung sansumg"]
+      tags: "galaxy m54 samsung sansumg"
     },
   
     // Terceiro objeto, representando o Motorola G84
@@ -22,7 +22,7 @@ let dados = [
       titulo: "Motorola G84",
       descricao: "Um dos destaques da Motorola, com um bom conjunto de câmeras e desempenho satisfatório. Seu design elegante e preço acessível o tornam uma opção atraente.",
       link: "https://www.tudocelular.com/Motorola/fichas-tecnicas/n8867/Motorola-Moto-G84.html",
-      tags: ["motorola g84 moto"]
+      tags: "motorola g84 moto"
     }
   
     // Fechamento do array "dados"
