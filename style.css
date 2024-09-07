@@ -12,7 +12,7 @@ body {
     height: 100vh; /* Preenche a altura total da viewport */
     margin: 0; /* Remove a margem padrão */
     padding: 0; /* Remove o padding padrão */
-    background-image: url(img/hande.jpg);/* Coloca uma imagem de fundo localizada em alguma pasta do dispositivo */
+    background-image: url(hande.jpg);/* Coloca uma imagem de fundo localizada no mesmo local dos arquivos */
     background-size: cover;/* Ajusta o tamanho da imagem garantindo que ela preencha todo o espaço */
     background-position: center;/* Centraliza a imagem de fundo tanto verticalmente como horizontalmente */
     background-repeat: no-repeat;/* Impede de mostrar a imagem mais de uma vez, sem repetição */
