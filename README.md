@@ -18,6 +18,6 @@ TopCell é uma ferramenta simples e intuitiva que te ajuda a encontrar o celular
 
 **Dica:**
 
-Para uma experiência ainda melhor, tente usar palavras-chave específicas e combinar diferentes termos. Por exemplo, em vez de digitar apenas "Samsung", tente "Samsung Galaxy S23 Ultra".
+Para uma experiência ainda melhor, tente usar palavras-chave específicas e combinar diferentes termos. Por exemplo, em vez de digitar apenas "Samsung", tente "Samsung Galaxy M54".
 
 **Vamos juntos encontrar o celular dos seus sonhos e que cabe no seu bolso! **
